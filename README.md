@@ -1,6 +1,6 @@
 # Local Binary Patterns (LBP) Analysis for Face Images
 
-This task involves analyzing facial images using **Local Binary Patterns (LBP)**, a feature extraction technique widely used in image processing and pattern recognition. The assignment includes computing LBP representations, histograms, and match scores for given images using statistical measures.
+This task involves analyzing facial images using **Local Binary Patterns (LBP)**, a feature extraction technique widely used in image processing and pattern recognition. It includes computing LBP representations, histograms, and match scores for given images using statistical measures.
 
 ---
 
